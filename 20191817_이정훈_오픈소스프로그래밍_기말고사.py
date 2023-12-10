@@ -5,6 +5,8 @@
 #
 # 학번 : 20191817 이름 : 이정훈
 
+import os
+import time
 
 # Q.1 10점
 #
