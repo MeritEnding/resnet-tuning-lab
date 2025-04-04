@@ -1,2 +1,2 @@
-# opensource-Final-exam
-오픈소스프로그래밍 final-exam 프로젝트 제출입니다.
+# resnet-tuning-lab
+Resnet 하이퍼파라미터 수정과 파인튜닝을 통한 모델 성능 최적화
